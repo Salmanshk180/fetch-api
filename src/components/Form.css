@@ -1,0 +1,12 @@
+.input-form {
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.submit-btn {
+  padding: 10px;
+  margin-inline: 20px;
+  background-color: rgb(10, 144, 35);
+  color: white;
+}
